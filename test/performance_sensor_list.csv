@@ -1,0 +1,11 @@
+﻿MODEL_ID,SENSOR_TAG,SENSOR_NAME,ROLE,MODEL_VERSION
+21,TMF_GG IP Comp. Suction Pressure (Assumed),GG IP Comp. Suction Pressure (Assumed),PREDICTOR,1
+21,TMF_GG IP Comp. Suction Temp. (Calculated) (DegC),GG IP Comp. Suction Temp. (Calculated) (DegC),PREDICTOR,1
+21,TMF_GG Fuel Primary + Secondary Flow Rate,GG Fuel Primary + Secondary Flow Rate,PREDICTOR,1
+21,TMF_GG NH Speed,GG NH Speed,PREDICTOR,1
+21,TMF_GG Power Turbine Power (kW),GG Power Turbine Power (kW),TARGET,1
+22,TMF_GG IP Comp. Suction Pressure (Assumed),GG IP Comp. Suction Pressure (Assumed),PREDICTOR,1
+22,TMF_GG IP Comp. Suction Temp. (Calculated) (DegC),GG IP Comp. Suction Temp. (Calculated) (DegC),PREDICTOR,1
+22,TMF_GG Fuel Primary + Secondary Flow Rate,GG Fuel Primary + Secondary Flow Rate,PREDICTOR,1
+22,TMF_GG NH Speed,GG NH Speed,PREDICTOR,1
+22,TMF_GG IP Comp. Power (kW),GG IP Comp. Power (kW),TARGET,1
